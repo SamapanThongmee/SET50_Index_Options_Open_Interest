@@ -10,7 +10,7 @@ Scrap options data from TFEX.co.th and manipulate/visualizate options open inter
 
 ### Screenshot
 #### SET50 Index Options: Open Interest for Series M24
-<img src="(https://github.com/SamapanThongmee/SET50_Index_Options_Open_Interest/blob/main/SET50_Index_Options_Series_M24.png)" height="600" width="1200" >
+<img src="https://github.com/SamapanThongmee/SET50_Index_Options_Open_Interest/blob/main/SET50_Index_Options_Series_M24.png" height="600" width="1200" >
 
 ### Authors
 
